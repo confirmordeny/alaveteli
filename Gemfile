@@ -90,7 +90,7 @@ else
   gem 'rails', '~> 6.1.7'
 end
 
-gem 'pg', '~> 1.4.4'
+gem 'pg', '~> 1.4.5'
 
 # New gem releases aren't being done. master is newer and supports Rails > 3.0
 gem 'acts_as_versioned', :git => 'https://github.com/technoweenie/acts_as_versioned.git', :ref => '63b1fc8529d028'
